@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Bartlesville
-tags: example-tag
+tags: bartlesville bville oklahoma
 region: North America
 country: United States
 meetup-group:
