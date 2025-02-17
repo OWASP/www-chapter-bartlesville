@@ -13,7 +13,7 @@ meetup-group:
 
 
 ## Welcome
-Include some information here about your chapter
+OWASP Bartlesville is the premier cybersecurity meetup in the Bartlesville area. If you are (or aspire to be) a computer professional or hacker and are interested in growing your skills, knowledge, and network, then this is the place you need to be. 
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
