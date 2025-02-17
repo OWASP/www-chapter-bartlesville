@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Jonathan McCormick](mailto:jonathan.mccormick@owasp.org)
+* [Christian Warmsley](mailto:christian.warmsley@owasp.rog)
