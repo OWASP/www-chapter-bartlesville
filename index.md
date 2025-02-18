@@ -9,8 +9,9 @@ meetup-group:
 
 ---
 
+<!--
 <div>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</div>
-
+-->
 
 ## Welcome
 OWASP Bartlesville is the premier cybersecurity meetup in the Bartlesville area. If you are (or aspire to be) a computer professional or hacker and are interested in growing your skills, knowledge, and network, then this is the place you need to be. 
