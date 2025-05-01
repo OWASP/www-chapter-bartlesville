@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Bartlesville
 tags: bartlesville bville oklahoma
 region: North America
-country: United States
+country: USA
 meetup-group:
 
 ---
